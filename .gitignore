@@ -1,0 +1,38 @@
+# Diretórios compilados
+bin/
+obj/
+
+# Arquivos e diretórios relacionados ao Visual Studio
+.vs/
+
+# Outros arquivos e diretórios que você pode considerar ignorar:
+
+# Arquivos de configuração de ambiente local
+appsettings.json
+appsettings.Development.json
+
+# Arquivos de banco de dados SQLite
+*.db
+*.sqlite
+
+# Arquivos de cache do sistema de compilação
+*.cache
+*.user
+*.userosscache
+*.suo
+
+# Arquivos de log
+*.log
+*.log.*
+*.log.json
+
+# Pasta de pacotes NuGet
+packages/
+
+# Arquivos gerados durante a execução
+TestResults/
+
+# Arquivos de saída do editor de texto
+*.swp
+*~.nib
+*.swp
